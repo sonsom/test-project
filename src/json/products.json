@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Laptop asus i3",
+        "description": "Là loại laptop cùi bắp",
+        "price": 10000000,
+        "image": "http://via.placeholder.com/500x300?text=Laptop asus i3"
+    },
+    {
+        "name": "Laptop asus i5",
+        "description": "Là loại laptop bình thường",
+        "price": 15000000,
+        "image": "http://via.placeholder.com/500x300?text=Laptop asus i5"
+    },
+    {
+        "name": "Laptop asu i7",
+        "description": "Là loại laptop trâu",
+        "price": 20000000,
+        "image": "http://via.placeholder.com/500x300?text=Laptop asus i7"
+    },
+    {
+        "name": "Laptop asus gamming",
+        "description": "Là loại laptop rất trâu",
+        "price": 25000000,
+        "image": "http://via.placeholder.com/500x300?text=Laptop asus gamming"
+    },
+    {
+        "name": "Macbook air",
+        "description": "Là loại laptop sang chảnh",
+        "price": 25000000,
+        "image": "http://via.placeholder.com/500x300?text=Macbook air"
+    },
+    {
+        "name": "Macbook pro",
+        "description": "Là loại laptop siêu trâu",
+        "price": 25000000,
+        "image": "http://via.placeholder.com/500x300?text=Macbook pro"
+    }
+]
