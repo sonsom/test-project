@@ -1,5 +1,6 @@
 jQuery(document).ready(function($) {
-    $.get('/json/products.json', function(data) {
+    $.get('/json/products.json', function(data) {// gui yeu cau lay file can lay ket qua
+ //data la cac du lieu ton tai duoi dang key:value
         data.forEach(function (product) {
             $('#products').append('\
                     <div class="col-md-4">\
