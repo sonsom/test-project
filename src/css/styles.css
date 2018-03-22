@@ -38,8 +38,19 @@ body{
 .font-weight{
     font-weight: bold;
 }
+.background-black{
+    background-color: #1c1e23;
+    width: 84px;
+    padding: 9px 11px 1px 15px;
+    border-radius: 14px;
+}
 .backgroud-white{
     background-color: white;
+}
+.buy-ubl{
+    border: 1px solid;
+    padding: 8px 7px 9px 9px;
+    border-radius: 8px;
 }
 
 .backround-input{
@@ -118,6 +129,17 @@ body{
     top: 286px;
     left: 130px;
 }
+.ubl{
+    position: relative;
+}
+.price-ubl{
+    position: absolute;
+    top: 10px;
+    left: 20px;
+}
+.suport-left{
+    margin-left: 150px;
+}
 @media only screen and (max-width: 320px) {
     .text-42 {
     font-size: 15px;
@@ -133,7 +155,30 @@ body{
     .btn-slider {
         display: none;
     }
-
+    .pagination{
+        margin-top:200px;
+    }
+    .buy-ubl {
+        border: 1px solid;
+        padding: 3px 2px 6px 10px;
+        border-radius: 8px;
+    }
+    .suport-left {
+         margin-left: 0px;
+    }
+    .border-input {
+        border-radius: 28px;
+        padding: 9px 61px 6px 4px;
+    }
+    .price {
+        width: 50px;
+        margin-top: 19px;
+        border-radius: 25px;
+        padding: 5px 20px 6px 44px;
+    }
+    .icon-face{
+        margin-left:196px;
+    }
 
 }
 @media only screen and (max-width: 375px) and (min-width: 321px){
